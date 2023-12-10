@@ -9,8 +9,7 @@ Về cơ bản thì hệ thống này nó có hai loại:
     ![image](https://github.com/manaxmaaxn/ML231/assets/127325509/a7ec42b0-ca42-49a8-8b85-a7abeebe0102)
 
     Vì người dùng A và F không chia sẻ bất kỳ xếp hạng phim nào chung với người dùng E nên điểm tương đồng của họ với người dùng E không được xác định trong Pearson Correlation. Do đó, chúng ta chỉ cần xét người dùng B, C và D. Dựa trên Tương quan Cosine Similatiry, chúng ta có thể tính toán độ tương tự sau.
-    Similarity = cos(θ)=(A .B)/(|A||B|  )=  (∑_(i=1)^n▒〖A_i B_i 〗)/(√(∑_(i=1)^n▒〖A_i〗^2 ) √(∑_(i=1)^n▒〖B_i〗^2 ))
- 
 
+    ![image](https://github.com/manaxmaaxn/ML231/assets/127325509/414e5912-b1f2-4c52-b473-ddb0cfa29ee1)
 
-    
+    ![image](https://github.com/manaxmaaxn/ML231/assets/127325509/d917a97b-151d-4924-b954-4a3a66911270)
