@@ -14,7 +14,7 @@ Về cơ bản thì hệ thống này nó có hai loại:
 
   Trong đó: 
 
-  A: ma trận vecto A tương đươn profile của người dùng, nói chung là đầu vào dùng để xác định xem là người xem đang thích phim như thế nào
+  A: ma trận vecto A tương đương profile của người dùng, nói chung là đầu vào dùng để xác định xem là người xem đang thích phim như thế nào
   
   B: ma trận vecto B của các feature i, ma trận này sẽ được dùng để so sánh với các vecto x để tìm ra sự tương đồng giữa người dùng và phim sẽ được đề xuất
 
