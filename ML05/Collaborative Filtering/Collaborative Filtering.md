@@ -12,4 +12,10 @@ Về cơ bản thì hệ thống này nó có hai loại:
 
     ![image](https://github.com/manaxmaaxn/ML231/assets/127325509/414e5912-b1f2-4c52-b473-ddb0cfa29ee1)
 
-    ![image](https://github.com/manaxmaaxn/ML231/assets/127325509/d917a97b-151d-4924-b954-4a3a66911270)
+  Trong đó: 
+
+  A: ma trận vecto A tương đươn profile của người dùng, nói chung là đầu vào dùng để xác định xem là người xem đang thích phim như thế nào
+  
+  B: ma trận vecto B của các feature i, ma trận này sẽ được dùng để so sánh với các vecto x để tìm ra sự tương đồng giữa người dùng và phim sẽ được đề xuất
+
+  θ: là khoảng cách giữa 2 vecto A và B, θ càng nhỏ cho thấy rằng độ tương đồng giữa phim đề xuất dựa trên mong muốn của người dùng càng lớn
